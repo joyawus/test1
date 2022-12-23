@@ -1,0 +1,1 @@
+Question 1 Load the file exchange_rates.csv as a dataframe and find the exchange rate for British pounds with the symbol GBP, store it in the variable exchange_rate, you will be asked for the number. Hint: set the parameter index_col to 0.
